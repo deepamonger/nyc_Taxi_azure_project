@@ -14,22 +14,22 @@ PySpark and Delta Lake.
 
 ## 📌 Table of Contents
 
-- ## 📌 Table of Contents
 
-- <a href="#overview">📌 Project Overview</a>
-- <a href="#business-problem">💼 Business Problem</a>
-- <a href="#dataset">📊 Dataset</a>
-- <a href="#tools-technologies">🛠 Tools & Technologies</a>
-- <a href="#architecture">🏗 Project Architecture</a>
-- <a href="#data-ingestion">🔄 Azure Data Factory – Data Ingestion</a>
-- <a href="#databricks">⚡ Azure Databricks & PySpark</a>
-- <a href="#data-transformation">🔧 Data Transformation</a>
-- <a href="#data-quality">✅ Data Quality Checks</a>
-- <a href="#challenges">⚠️ Challenges & Solutions</a>
-- <a href="#pipeline-workflow">🔁 Pipeline Workflow</a>
-- <a href="#learnings">🎓 Key Learnings</a>
-- <a href="#future-improvements">🚀 Future Improvements</a>
-- <a href="#contact">👩‍💻 Author & Contact</a>
+
+- <a href="#overview"> Project Overview</a>
+- <a href="#business-problem">Business Problem</a>
+- <a href="#dataset">Dataset</a>
+- <a href="#tools-technologies">Tools & Technologies</a>
+- <a href="#architecture">Project Architecture</a>
+- <a href="#data-ingestion">Azure Data Factory – Data Ingestion</a>
+- <a href="#databricks">Azure Databricks & PySpark</a>
+- <a href="#data-transformation">Data Transformation</a>
+- <a href="#data-quality">Data Quality Checks</a>
+- <a href="#challenges">Challenges & Solutions</a>
+- <a href="#pipeline-workflow">Pipeline Workflow</a>
+- <a href="#learnings">Key Learnings</a>
+- <a href="#future-improvements">Future Improvements</a>
+- <a href="#contact">Author & Contact</a>
 
 ---
 
