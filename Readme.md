@@ -14,9 +14,6 @@ PySpark and Delta Lake.
 
 ## 📌 Table of Contents
 
-
-## 📌 Table of Contents
-
 - <a href="#overview">📌 Project Overview</a>
 - <a href="#business-problem">💼 Business Problem</a>
 - <a href="#dataset">📊 Dataset</a>
